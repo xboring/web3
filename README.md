@@ -18,7 +18,7 @@ Web3，推动整个生态的发展。
 
 #### （1）基础概念
 
-- [0起步（必读）](https://tgn5x5g84p.feishu.cn/wiki/wikcn2cG75JUyWKs89bEsoNgvzb)
+- [0起步（必读）](https://github.com/Web3KeyTalking/web3book/blob/main/0%E8%B5%B7%E6%AD%A5%EF%BC%88%E5%BF%85%E8%AF%BB%EF%BC%89.md)
 - [50 + 概念（简意版）](https://tgn5x5g84p.feishu.cn/wiki/Yhn5wGEXEiLkMrkc2d2caCJhnMJ)
 - [政策趋势及法律法规](https://tgn5x5g84p.feishu.cn/wiki/wikcnf8sj25zAqyv99qFGIs2LAb)
 - [资料查询](https://tgn5x5g84p.feishu.cn/wiki/wikcnXhP3JUzjXXfzKvfgkFvfad)
